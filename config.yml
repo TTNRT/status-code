@@ -143,12 +143,13 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
+    - name: Main Server
       description: The main servers are located here.
       closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+    - name: Discord Bots
+      description: Discord Bots
+    - name: Webserver
+      description: Apache VM Status    
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -158,20 +159,16 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
+    - name: Main server
+      category: Main Server
+    - name: STVRadio
+      category: Discord Bots
+    - name: TTGuard
+      category: Discord Bots
+    - name: Apache Server
       description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+      category: Webserver
+      link: https://ttnrtsite.me
 
   # What date format to use?
   #
