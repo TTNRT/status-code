@@ -296,12 +296,12 @@ params:
 
   # Tabs on homepage
   # Uncomment to enable.
-  
-   Format:
-   customTabs:
-     -
-      name: Home
-      link: https://ttnrtsite.me/
+  #
+  #  Format:
+  #  customTabs:
+  #   -
+  #    name: Home
+  #    link: https://ttnrtsite.me/
 
   # Disable complex server-side
   # calculations that may impact
