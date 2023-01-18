@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: TTNRT Site Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.ttnrtsite.me/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -299,9 +299,9 @@ params:
   #
   # Format:
   # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  #   -
+      name: Home
+      link: https://ttnrtsite.me/
 
   # Disable complex server-side
   # calculations that may impact
