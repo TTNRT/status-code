@@ -8,7 +8,7 @@ informational: true
 pin: false
 resolvedWhen: 2023-01-19T00:51:27.709Z
 affected:
-  - DiscordBots
+  - STVRadio
 severity: disrupted
 ---
 J﻿ust started installing Node and NPM on the server just now.
