@@ -1,23 +1,11 @@
-—
-title: STVRadio effection
-date: 2023-01-19 12:44:00
-resolved: false
-resolvedWhen: none
-severity: down
-affected:
-  - STVRadio
-section: page
-—
+## Hi all!
 
-*Message* - The TTNRT Discord Bot control system is asking all users who use the bot to not ban or remove it at this time!
+This is message and automated from the TTNRT Github Management System.
 
+This is a notice about our bot, STVRadio.
 
-The bot is being looked at to attpemt repair and diagnos the problem. Please consider using other music bots for the time being until futher notice!
+The bot is giving our dispatchers a somewhat hard time on the bot itself.
 
-
-You should also note to stay updated on the status repair at (https://status.ttnrtsite.me) for updates and posabile affection to other services!
-
+As a result, t**he bot will be offline until the next update** and has to be checked out by the original author on the side note.
 
 Thank you for reading!
-
-*Issued at 12:52 PM*
