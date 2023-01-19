@@ -1,15 +1,16 @@
 ---
+title: "STVRadio Downtime \U0001F53B"
+date: 2023-01-19 00:39:07.426000000 Z
 section: issue
-title: STVRadio Downtime 🔻
-date: 2023-01-19T00:39:07.426Z
 resolved: false
 draft: false
 informational: true
 pin: false
-resolvedWhen: 2023-01-19T00:39:07.443Z
+resolvedWhen: 2023-01-19 00:39:07.443000000 Z
 affected: []
 severity: disrupted
 ---
+
 The bot known as STVRadio, is currently offline due not being online for sometime!
 
 Please wait for more information on the outage.
