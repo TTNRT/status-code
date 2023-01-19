@@ -1,6 +1,6 @@
 ---
 title: Status Page
-timezone: UTC
+timezone: America/Detroit
 collections:
   posts:
     title: Posts
