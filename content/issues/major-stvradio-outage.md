@@ -1,11 +1,11 @@
 ---
 title: STVRadio effection
-date: 2023-01-19 12:44:00
+date: 2023-01-19 12:44:00 Z
 resolved: false
 resolvedWhen: none
 severity: down
-affected: 
-  - STVRadio
+affected:
+- STVRadio
 section: issue
 ---
 
