@@ -6,7 +6,7 @@ resolvedWhen: none
 severity: down
 affected:
   - STVRadio
-section: issue
+section: page
 —
 
 *Message* - The TTNRT Discord Bot control system is asking all users who use the bot to not ban or remove it at this time!
