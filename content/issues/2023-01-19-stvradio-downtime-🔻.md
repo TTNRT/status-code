@@ -1,6 +1,6 @@
 ---
 title: "STVRadio Downtime \U0001F53B"
-date: 2023-01-19 00:39:07.426000000 Z
+date: 2023-01-19T00:39:07.426000000 Z
 section: issue
 resolved: false
 draft: false
