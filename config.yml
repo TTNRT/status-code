@@ -169,6 +169,9 @@ params:
       description: The web frontend for the application.
       category: Webserver
       link: https://ttnrtsite.me
+    - name: Subsonic Server
+      category: Main Server
+      link: http://music.ttnrtsite.me  
 
   # What date format to use?
   #

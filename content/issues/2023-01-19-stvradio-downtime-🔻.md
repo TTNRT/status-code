@@ -7,7 +7,8 @@ draft: false
 informational: true
 pin: false
 resolvedWhen: 2023-01-19T00:39:07.443Z
-affected: []
+affected: 
+   - STVRadio
 severity: disrupted
 ---
 The bot known as STVRadio, is currently offline due not being online for sometime!

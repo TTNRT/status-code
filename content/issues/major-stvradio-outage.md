@@ -1,14 +1,13 @@
-—
+---
 title: STVRadio effection
-date: 2023-01-19 12:44:00
+date: 2023-01-19T00:51:27.696Z
 resolved: false
 resolvedWhen: none
 severity: down
 affected:
   - STVRadio
 section: page
-—
-
+---
 *Message* - The TTNRT Discord Bot control system is asking all users who use the bot to not ban or remove it at this time!
 
 
