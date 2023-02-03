@@ -8,8 +8,7 @@ informational: true
 pin: false
 <<<<<<< HEAD
 resolvedWhen: 2023-01-19T00:39:07.443Z
-affected: 
-   - STVRadio
+affected: STVRadio
 =======
 resolvedWhen: 2023-01-19 00:39:07.443000000 Z
 affected: []
