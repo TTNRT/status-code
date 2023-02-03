@@ -6,13 +6,8 @@ resolved: false
 draft: false
 informational: true
 pin: false
-<<<<<<< HEAD
-resolvedWhen: 2023-01-19T00:39:07.443Z
-affected: STVRadio
-=======
 resolvedWhen: 2023-01-19 00:39:07.443000000 Z
-affected: []
->>>>>>> 77ff5c2b2030671cedeb2bd14c128f2df226fa8f
+affected: STVRadio
 severity: disrupted
 ---
 
