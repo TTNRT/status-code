@@ -7,7 +7,7 @@ draft: false
 informational: true
 pin: false
 resolvedWhen: 2023-01-19T00:39:07.443000000 Z
-affected: STVRadio
+affected: []
 severity: disrupted
 ---
 
