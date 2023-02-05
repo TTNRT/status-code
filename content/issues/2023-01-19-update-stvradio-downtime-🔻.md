@@ -3,13 +3,9 @@ title: "UPDATE: STVRadio Downtime \U0001F53B"
 date: 2023-01-19T00:51:27.696000000 Z
 section: issue
 resolved: false
-draft: false
-informational: false
-pin: false
 resolvedWhen: 2023-01-19T00:51:27.709000000 Z
 affected:
 - STVRadio
-severity: disrupted
 ---
 
 J﻿ust started installing Node and NPM on the server just now.
