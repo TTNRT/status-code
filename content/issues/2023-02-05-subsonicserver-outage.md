@@ -1,8 +1,8 @@
 ---
 title: Subsonic Server Change
 date: 2023-02-05T17:48:27.696Z
-resolved: true
-resolvedWhen: none
+resolved: false
+resolvedWhen: 2023-02-05T17:48:27.696Z
 severity: down
 affected:
 - Subsonic Server
