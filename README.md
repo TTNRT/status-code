@@ -1,33 +1,27 @@
-# cState Site v5.5
+## TTNRT Status Page
 
-This is the default cState status page website directory/folder.
+This is the offical repo for the TTNRT status page!
 
-* Example site repository link (you are here): https://github.com/cstate/example
-* Main cState source code repository: https://github.com/cstate/cstate
+You can find the **issues or pages** created here on GitHub!
 
-## Are you updating? Use these commands
+## Why?
 
-Download your site with all the directories. `git clone --recursive <your repo link goes here>`
+Well the reason is simple, not really..
 
-Update the cState theme submodule. `git submodule foreach git pull origin master`
+I host the files here and host them with GitHub Pages, along with a workflow for reby and mostly hugo for the file on them!
 
-In the parent directory, type `hugo serve`. Check to see if everything is working.
+Not really managing these files, but soon maybe.. :)
 
-Then do `git add -A; git commit -m "Update cState"; git push origin <branch, probably main or master>`. Your status page is now updated and uploaded.
+## Where?
 
+It uses cstate for the program.
 
-## For maintainers (probably not for you)
+Not anything special is in this repo of it anyway.. Best I can do!
 
-Maintainers need to update both cstate/cstate and cstate/example for each new version.
+---
 
-Download this repo with all the directories. `git clone --recursive -b master https://github.com/cstate/example.git`
+TTNRT CORP
 
-Add your changes from cstate/cstate's exampleSite folder.
+All rights reserved!
 
-Update the cState theme submodule. `git submodule foreach git pull origin master`
-
-Then push `git add -A; git commit -m "Update cState vX.X.X"; git push origin master`.
-
-## License
-
-MIT © Mantas Vilčinskas
+2018 - 2023
