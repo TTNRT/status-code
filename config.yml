@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://status.ttnrtsite.me/
+baseURL: /
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -144,12 +144,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Main Server
-      description: The main servers are located here.
-      closed: true
+      description: Unknown name!
     - name: Discord Bots
       description: Discord Bots
-    - name: Webserver
-      description: Apache VM Status    
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -159,19 +156,19 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Main server
+    - name: Home Page
       category: Main Server
+      link: https://ttnrtsite.me
+    - name: Virtual x86
+      category: Main Server
+      link: https://virtual.ttnrtsite.me      
     - name: STVRadio
       category: Discord Bots
     - name: TTGuard
       category: Discord Bots
-    - name: Apache Server
-      description: The web frontend for the application.
-      category: Webserver
-      link: https://ttnrtsite.me
-    - name: Subsonic Server
-      category: Main Server
-      link: http://music.ttnrtsite.me  
+    #- name: Subsonic Server
+    #  category: Main Server
+    #  link: http://music.ttnrtsite.me  
 
   # What date format to use?
   #
