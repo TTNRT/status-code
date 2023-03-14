@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: TTNRT Site Status
+title: TTNRT Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -289,7 +289,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Check for any outages or issues here!
 
   # Tabs on homepage
   # Uncomment to enable.
