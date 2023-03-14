@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/affected/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/affected/home-page/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/issues/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/affected/stvradio/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/affected/ttguard/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/issues/2023-03-12-server-problem/</loc>
+    <lastmod>2023-03-12T05:13:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/example-page/</loc>
+    <lastmod>2023-01-19T17:38:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/</loc>
+    <lastmod>2023-01-19T17:38:01-05:00</lastmod>
+  </url>
+  
+</urlset>

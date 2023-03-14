@@ -1,0 +1,79 @@
+{
+  "is": "index",
+  "cStateVersion": "5.3",
+  "apiVersion": "2.0",
+  "title": "TTNRT Site Status",
+  "languageCodeHTML": "en",
+  "languageCode": "en",
+  "baseURL": "/", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "Main Server",
+        "description": "Unknown name!",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Discord Bots",
+        "description": "Discord Bots",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "Home Page",
+        "category": "Main Server", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Virtual x86",
+        "category": "Main Server", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "STVRadio",
+        "category": "Discord Bots", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "TTGuard",
+        "category": "Discord Bots", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2023-03-13",
+  "buildTime": "18:13",
+  "buildTimezone": "EDT",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "/logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}

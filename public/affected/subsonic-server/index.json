@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Subsonic Server",
+  "permalink": "/affected/subsonic-server/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Web server changes",
+        "createdAt": "2023-03-12 00:05:27.696 +0000 UTC",
+        "lastMod": "2023-03-12 05:13:08 +0000 +0000",
+        "permalink": "/issues/2023-03-12-server-problem/",
+        "severity": "<no value>",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2023-03-12T00:00:12.696Z",
+        "affected": ["Main Server", "Subsonic Server", "STVRadio", "TTGuard", "Apache Server"],
+        "filename": "2023-03-12-server-problem.md"
+      }
+    
+  ]
+}
+
+
+
+
+
