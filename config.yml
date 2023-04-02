@@ -1,0 +1,123 @@
+title: TTNRT Status
+
+buildFuture: true
+
+languageCode: en
+
+defaultContentLanguage: en
+
+baseURL: /
+
+enableGitInfo: true
+
+params:
+  categories:
+    - name: Main Server
+      description: Unknown name!
+    - name: Discord Bots
+      description: Discord Bots
+
+  # https://github.com/cstate/cstate/wiki/Customization
+  systems:
+    - name: Home Page
+      category: Main Server
+      link: https://ttnrtsite.me
+    - name: Virtual x86
+      category: Main Server
+      link: https://virtual.ttnrtsite.me      
+    - name: STVRadio
+      category: Discord Bots
+    - name: TTGuard
+      category: Discord Bots
+    #- name: Subsonic Server
+    #  category: Main Server
+    #  link: http://music.ttnrtsite.me  
+
+  dateFormat: January 2, 2006 at 3:04 PM UTC
+  shortDateFormat: 15:04 UTC — Jan 2
+
+  useRelativeTime: true
+ 
+  skipSeconds: false
+
+  enableLastMod: true
+
+  useLargeHeaderDesign: false
+
+  incidentHistoryFormat: "yearly"
+
+  disableIncidentHistory: false
+
+  disableDarkMode: false
+
+  useLogo: true
+
+  logo: logo.png
+
+  description: Check for any outages or issues here!
+
+  # Tabs on homepage
+  # Uncomment to enable.
+  #
+  #  Format:
+  #  customTabs:
+  #   -
+  #    name: Home
+  #    link: https://ttnrtsite.me/
+
+  disableComplexCalculations: false
+
+  incidentPostsPerPage: 10
+
+  # Defaults:
+  #
+  # brand: "#0a0c0f"
+  # ok: "#008000"
+  # disrupted: "#cc4400"
+  # down: "#e60000"
+  # notice: "#24478f"
+  brand: "#0a0c0f"
+  ok: "#008000"
+  disrupted: "#cc4400"
+  down: "#e60000"
+  notice: "#24478f"
+
+  alwaysKeepBrandColor: true
+
+  # STRING; `white`, `black`, or nothing
+  headerTextColor: white
+
+  googleAnalytics: UA-00000000-1
+
+theme: cstate
+
+preserveTaxonomyNames: true
+
+enableCustomHTML: true
+
+taxonomies:
+  affected: affected
+
+outputs:
+  page:
+    - html
+    - json
+  section:
+    - html
+    - json
+    - rss
+  home:
+    - html
+    - json
+    - rss
+    - svg
+  term:
+    - html
+    - json
+    - rss
+    - svg
+
+outputFormats:
+  svg:
+    isPlainText: true
+    mediaType: image/svg+xml
