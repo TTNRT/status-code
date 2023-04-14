@@ -16,6 +16,11 @@ params:
       description: Unknown name!
     - name: Discord Bots
       description: Discord Bots
+<<<<<<< HEAD
+=======
+
+  # https://github.com/cstate/cstate/wiki/Customization
+>>>>>>> 50372d8ea722fc98c82091c655b031986c7e0d81
   systems:
     - name: Home Page
       category: Main Server
@@ -67,6 +72,16 @@ params:
 
   incidentPostsPerPage: 10
 
+<<<<<<< HEAD
+=======
+  # Defaults:
+  #
+  # brand: "#0a0c0f"
+  # ok: "#008000"
+  # disrupted: "#cc4400"
+  # down: "#e60000"
+  # notice: "#24478f"
+>>>>>>> 50372d8ea722fc98c82091c655b031986c7e0d81
   brand: "#0a0c0f"
   ok: "#008000"
   disrupted: "#cc4400"
@@ -75,15 +90,24 @@ params:
 
   alwaysKeepBrandColor: true
 
+<<<<<<< HEAD
+=======
+  # STRING; `white`, `black`, or nothing
+>>>>>>> 50372d8ea722fc98c82091c655b031986c7e0d81
   headerTextColor: white
 
   googleAnalytics: UA-00000000-1
 
+<<<<<<< HEAD
   enableCustomHTML: true
   
+=======
+>>>>>>> 50372d8ea722fc98c82091c655b031986c7e0d81
 theme: cstate
 
 preserveTaxonomyNames: true
+
+enableCustomHTML: true
 
 taxonomies:
   affected: affected
