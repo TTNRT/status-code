@@ -1,4 +1,4 @@
-## TTNRT Status Page
+# TTNRT Status Page
 
 This is the offical repo for the TTNRT status page!
 
@@ -18,10 +18,6 @@ It uses cstate for the program.
 
 Not anything special is in this repo of it anyway.. Best I can do!
 
----
+## Can I fork?
 
-TTNRT CORP
-
-All rights reserved!
-
-2018 - 2023
+No. No one can because of memeber perms in this project!
