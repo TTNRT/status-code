@@ -1,4 +1,4 @@
-# TTNRT Status Page
+# Status Page
 
 This is the offical repo for the TTNRT status page!
 
@@ -10,7 +10,7 @@ Well the reason is simple, not really..
 
 I host the files here and host them with GitHub Pages, along with a workflow for reby and mostly hugo for the file on them!
 
-Not really managing these files, but soon maybe.. :)
+Not really managing these files, but soon maybe..
 
 ## Where?
 
