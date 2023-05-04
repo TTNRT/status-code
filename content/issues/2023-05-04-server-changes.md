@@ -4,7 +4,7 @@ date: 2023-05-04T00:14:30.696Z
 resolved: true
 resolvedWhen: 2023-05-04T00:14:31.696Z
 affected:
-- GitHub Pages Server
+- Website
 section: issue
 ---
 
