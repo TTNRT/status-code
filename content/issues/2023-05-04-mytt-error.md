@@ -4,7 +4,7 @@ date: 2023-05-04T00:14:30.696Z
 resolved: false
 resolvedWhen: 2023-05-04T00:14:31.696Z
 affected:
-- MyTT
+- System
 section: issue
 ---
 
