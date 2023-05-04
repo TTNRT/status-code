@@ -12,25 +12,20 @@ enableGitInfo: true
 
 params:
   categories:
-    - name: GitHub Pages
+    #- name: Discord Bots
+    #  description: Discord Bots
+    - name: Website
       description: Pages Server
-    - name: MyTT
-      description: Unknown name!
-    - name: Discord Bots
-      description: Discord Bots
-
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Site 1
-      category: GitHub Pages
-      link: https://www.ttnrtsite.me   
-    - name: STVRadio
-      category: Discord Bots
-    - name: System
-      category: MyTT
-      link: https://my.ttnrtsite.me
-    - name: TTGuard
-      category: Discord Bots
+    - name: Pages
+      category: Website
+    - name: GitHub
+      category: Website
+    - name: MyTT
+      category: Website      
+    #- name: TTGuard
+    #  category: Discord Bots
     #- name: Subsonic Server
     #  category: Main Server
     #  link: http://music.ttnrtsite.me  
