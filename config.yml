@@ -14,21 +14,24 @@ params:
   categories:
     #- name: Discord Bots
     #  description: Discord Bots
-    - name: Website
-      description: Pages Server
+    - name: Services
+    - name: Extra
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Pages
-      category: Website
-    - name: GitHub
-      category: Website
+      category: Services
+    - name: Gitea
+      category: Services
     - name: MyTT
-      category: Website      
+      category: Services
+    - name: MediaWiki
+      category: Extra
+    - name: phpBB
+      category: Extra
+    - name: CDN Network
+      category: Services  
     #- name: TTGuard
     #  category: Discord Bots
-    #- name: Subsonic Server
-    #  category: Main Server
-    #  link: http://music.ttnrtsite.me  
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
