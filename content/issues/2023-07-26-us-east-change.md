@@ -3,7 +3,7 @@ title: Notice for Mastodon users
 date: 2023-07-26 12:00:00
 resolved: true
 resolvedWhen: 2023-07-28 09:00:00
-severity: notice
+severity: disrupted
 affected:
   - Mastodon
 section: issue
@@ -22,3 +22,11 @@ Please keep in mind that I will also be affected by this upgrade, so that means 
 As this is not a actual outage, it will be listed as a notice, and then upgraded to a down status.
 
 Please monitor for more updates regurding this issue.
+
+---
+
+## Update
+
+The server will now be placed offline for the fiber upgrade. Yes, this is a bit early, but the network is currently too slow for it to send requests back to back at this time.
+
+Again, it will be offline until Friday after the fiber upgrade.
