@@ -20,6 +20,8 @@ params:
   systems:
     - name: Pages
       category: Services
+    - name: Mastodon
+      category: Services
     - name: Gitea
       category: Services
     - name: MyTT
