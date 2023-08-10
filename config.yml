@@ -14,26 +14,26 @@ params:
   categories:
     #- name: Discord Bots
     #  description: Discord Bots
-    - name: Services
-    - name: Extra
+    - name: United States
+    - name: Other Services
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Pages
-      category: Services
+    - name: TTPages
+      category: United States
     - name: Mastodon
-      category: Services
-    - name: Gitea
-      category: Services
-    - name: MyTT
-      category: Services
-    - name: MediaWiki
-      category: Extra
-    - name: phpBB
-      category: Extra
-    - name: CDN Network
-      category: Services  
+      category: United States
+    - name: TTGit
+      category: United States
+    - name: TTWiki
+      category: United States
+    - name: TTForums
+      category: United States
+    - name: CDN
+      category: United States
+    - name: TTHost
+      category: United States  
     #- name: TTGuard
-    #  category: Discord Bots
+    #  category: Other Services
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
