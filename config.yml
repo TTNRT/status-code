@@ -81,7 +81,7 @@ params:
 
   enableCustomHTML: true
   
-theme: themes
+theme: statustt
 
 preserveTaxonomyNames: true
 
