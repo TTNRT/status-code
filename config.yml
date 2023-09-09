@@ -14,24 +14,20 @@ params:
   categories:
     #- name: Discord Bots
     #  description: Discord Bots
-    - name: United States
-    - name: Other Services
+    - name: US East
+    #- name: Other Services
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: TTPages
-      category: United States
     - name: Mastodon
-      category: United States
+      category: US East
     - name: TTGit
-      category: United States
-    - name: TTWiki
-      category: United States
-    - name: TTForums
-      category: United States
+      category: US East
     - name: CDN
-      category: United States
+      category: US East
     - name: TTHost
-      category: United States  
+      category: US East
+    - name: TTWeb
+      category: US East   
     #- name: TTGuard
     #  category: Other Services
 
