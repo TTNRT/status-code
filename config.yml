@@ -81,7 +81,7 @@ params:
 
   enableCustomHTML: true
   
-theme: cstate
+theme: themes
 
 preserveTaxonomyNames: true
 
