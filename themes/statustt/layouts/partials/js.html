@@ -1,9 +1,4 @@
 <script type="text/javascript">
-  /**
-   * Dev toolset
-   */
-
-  console.log('cState v5.5.2 - https://github.com/cstate/cstate');
   document.getElementsByTagName('html')[0].className = 'js';
 
   /**
@@ -125,17 +120,6 @@
 
   // Update "time since" feature every 5s
   setInterval(updateRelativeTimes, 5000);
+
+  anchors.add('h2,h3,h4,h5,h6');
 </script>
-
-
-{{ if ne .Site.Params.googleAnalytics "UA-00000000-1" }}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script type="text/javascript" defer src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
-  <script type="text/javascript" defer>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ .Site.Params.googleAnalytics }}');
-  </script>
-{{ end }}
