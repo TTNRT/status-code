@@ -18,6 +18,9 @@ params:
     #- name: Other Services
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    - name: Main Server
+      category: US East
+      link: http://ttnrt-us-east-nc-jahy.ttnrtsite.me/
     - name: Mastodon
       category: US East
     - name: TTGit
