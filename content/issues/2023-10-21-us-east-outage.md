@@ -2,7 +2,7 @@
 title: US East outage
 date: 2023-10-21 16:31:00
 resolved: true
-#resolvedWhen: 2023-07-28 09:00:00
+resolvedWhen: 2023-10-21 16:51:00
 severity: down
 affected:
   - Main Server
