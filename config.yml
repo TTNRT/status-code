@@ -20,7 +20,7 @@ params:
   systems:
     - name: Main Server
       category: US East
-      link: http://ttnrt-us-east-nc-jahy.ttnrtsite.me/
+      link: https://ttnrt-us-east-nc-jahy.ttnrtsite.me/
     - name: Mastodon
       category: US East
     - name: TTGit

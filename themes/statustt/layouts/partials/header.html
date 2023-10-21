@@ -3,26 +3,24 @@
 {{ end }}
 
 {{ if .Site.Params.useLargeHeaderDesign }}
-<div class="header header--large">
+<div class="header header--large" style="display:flex;vertical-align:middle;text-align:center;align-items:center;">
   <div class="contain contain--more center">
     <a href="{{ .Site.BaseURL }}" class="header__logo">
-      {{ if .Site.Params.useLogo }}
-        <img src="{{ relURL .Site.Params.logo }}" alt="{{ .Site.Title }}">
-          {{ else }}
-        <h1>Status</h1>
-      {{ end }}
+      <div style="display:flex;vertical-align:middle;text-align:center;align-items:center;">
+      <img src="https://cdn.ttnrtsite.me/images/logo.png">
+      <h2>Status</h2>
+    </div>
     </a>
   </div>
 </div>
 {{ else }}
-<div class="header">
+<div class="header" style="display:flex;vertical-align:middle;text-align:center;align-items:center;">
   <div class="contain">
     <a href="{{ .Site.BaseURL }}" class="header__logo header__logo--small">
-      {{ if .Site.Params.useLogo }}
-        <img src="{{ relURL .Site.Params.logo }}" alt="{{ .Site.Title }}">
-          {{ else }}
-        <h1>Status</h1>
-      {{ end }}
+      <div style="display:flex;vertical-align:middle;text-align:center;align-items:center;">
+      <img src="https://cdn.ttnrtsite.me/images/logo.png">
+      <h2>Status</h2>
+    </div>
     </a>
   </div>
 </div>
