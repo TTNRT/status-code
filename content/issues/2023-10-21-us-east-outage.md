@@ -1,0 +1,23 @@
+---
+title: US East outage
+date: 2023-10-21 16:31:00
+resolved: false
+#resolvedWhen: 2023-07-28 09:00:00
+severity: down
+affected:
+  - Main Server
+  - TTGit
+  - CDN
+  - TTHost
+  - TTWeb
+section: issue
+---
+
+A outage has occurred on US East today for all services with it. Early today, our hosting server was preparing for a storage upgrade. However, it didn't go so well.
+This means that all services hosted on US East is down as our container is not responding to us at this time. We have no other info give out during the outage.
+
+## Update 2
+
+A message was just published from our provider today.
+
+> Due to issues with the PCIe not detecting and I guess how server equipment works, this has been aborted, however - Blue Zenith has now have one of the 10 TB drives and will be used for backups. Thanks for sticking around.
