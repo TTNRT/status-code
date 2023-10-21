@@ -1,7 +1,7 @@
 ---
 title: US East outage
 date: 2023-10-21 16:31:00
-resolved: false
+resolved: true
 #resolvedWhen: 2023-07-28 09:00:00
 severity: down
 affected:
@@ -21,3 +21,7 @@ This means that all services hosted on US East is down as our container is not r
 A message was just published from our provider today.
 
 > Due to issues with the PCIe not detecting and I guess how server equipment works, this has been aborted, however - Blue Zenith has now have one of the 10 TB drives and will be used for backups. Thanks for sticking around.
+
+## Update 3
+
+US East is back up! Thank you for waiting!
