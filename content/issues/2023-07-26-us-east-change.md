@@ -1,8 +1,8 @@
 ---
 title: Notice for Mastodon users
 date: 2023-07-26 12:00:00
-resolved: false
-#resolvedWhen: 2023-07-28 09:00:00
+resolved: true
+resolvedWhen: 2023-10-22 13:47:00
 severity: down
 affected:
   - Mastodon
@@ -47,28 +47,6 @@ For now, you can keep updated with our blog, which is different to Mastodon.
 
 We hope to fix this soon..
 
----
+## Update 3
 
-## Summery
-
-The changes to the site have be removed from place
-
-## What happend?
-
-A 403 error message occored during the check, and we suggest it's due to permission or user problems.
-
-## Before that?
-
-It was working fine from the first installation.
-
-## Provider?
-
-Cloudflare and ATT
-
-## Logs?
-
-The log suggest that it was trying to do a directory indexing.
-
-## How long?
-
-Unsure, but we hope to restore service soon.
+The Mastodon server is now online! Thank you for your patience during this time! However, you must expect that the server is now required to shutdown at some point to save usage. There is still issues occouring, such as the streaming api. We will continue to look into that error soon.
