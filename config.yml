@@ -15,7 +15,7 @@ params:
     #- name: Discord Bots
     #  description: Discord Bots
     - name: US East
-    #- name: Other Services
+    - name: Other Services
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Main Server
@@ -30,7 +30,10 @@ params:
     - name: TTHost
       category: US East
     - name: TTWeb
-      category: US East   
+      category: US East
+    - name: STVRadio
+      category: Other Services
+      link: https://github.com/SSP6904/STVRadio
     #- name: TTGuard
     #  category: Other Services
 
