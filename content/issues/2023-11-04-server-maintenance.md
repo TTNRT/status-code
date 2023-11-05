@@ -1,0 +1,22 @@
+---
+title: US East Emergency Maintenance
+date: 2023-11-04 21:00:00
+resolved: false
+#resolvedWhen: 2023-11-05 08:00:00
+severity: down
+affected:
+  - Main Server
+  - TTGit
+  - CDN
+  - TTHost
+  - TTWeb
+  - STVRadio
+  - AssistAI
+section: issue
+---
+
+NetroCorp has recently reached out use reguarding a network outage. This means most of our services will be out, including our Discord Bots. We are expecting them to be back online on Sunday November 5th at 8:00 AM ET. 
+
+The given start for this maintenance is around 1:00 AM ET on Sunday, November 5th. Please note that the container hosting our services will be powered on after this maintenance is over.
+
+Please keep updated on this issue.

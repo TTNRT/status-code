@@ -34,6 +34,8 @@ params:
     - name: STVRadio
       category: Other Services
       link: https://github.com/SSP6904/STVRadio
+    - name: AssistAI
+      category: Other Services  
     #- name: TTGuard
     #  category: Other Services
 
