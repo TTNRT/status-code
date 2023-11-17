@@ -23,21 +23,25 @@ params:
       link: https://ttnrt-us-east-nc-jahy.ttnrtsite.me/
     - name: Mastodon
       category: US East
+      link: https://social.ttnrtsite.me
     - name: TTGit
       category: US East
+      link: https://git.ttnrtsite.me
     - name: CDN
       category: US East
+      link: https://cdn.ttnrtsite.me
     - name: TTHost
       category: US East
     - name: TTWeb
       category: US East
+      link: https://www.ttnrtsite.me
     - name: STVRadio
       category: Other Services
       link: https://github.com/SSP6904/STVRadio
     - name: AssistAI
       category: Other Services  
-    #- name: TTGuard
-    #  category: Other Services
+    - name: TTGuard
+      category: Other Services
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2

@@ -13,6 +13,7 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
     <meta name="theme-color" content="{{ .Site.Params.brand }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.1/font/bootstrap-icons.min.css" />
     <script>
     var themeBrandColor = '{{ .Site.Params.brand }}';
     var themeOkColor = '{{ .Site.Params.ok }}';
