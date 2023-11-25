@@ -22,3 +22,11 @@ This is required when a ddos attack happens to any of our locations that host a 
 ## Update 1
 
 We have sent the shutdown signal to our container. Please note that other sites are not affected, including our blog, status site, docs, and health site.
+
+## Update 2
+
+An update from NetroCorp:
+
+> It seems the attack has calmed. We are working on resolving and implementing measures to prevent this from escalating like it did.
+
+We are still looking into this issue, and will continue to update you on this DDOS attack.
