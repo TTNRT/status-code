@@ -15,33 +15,50 @@ params:
     #- name: Discord Bots
     #  description: Discord Bots
     - name: US East
+      description: The main site in South Carolina
+      closed: false
     - name: Other Services
+      description: Separate services we have hosted
+      closed: true
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Main Server
       category: US East
       link: https://ttnrt-us-east-nc-jahy.ttnrtsite.me/
+      description: Proxy server
     - name: Mastodon
       category: US East
       link: https://social.ttnrtsite.me
+      description: Social network
     - name: TTGit
       category: US East
       link: https://git.ttnrtsite.me
+      description: Hosting your code!
     - name: CDN
       category: US East
       link: https://cdn.ttnrtsite.me
+      description: Content Delivery Network
     - name: TTHost
       category: US East
+      description: Hosting made easier
     - name: TTWeb
       category: US East
       link: https://www.ttnrtsite.me
+      description: Our default website
     - name: STVRadio
       category: Other Services
       link: https://github.com/SSP6904/STVRadio
+      description: Listening to music
     - name: AssistAI
-      category: Other Services  
+      category: Other Services
+      description: Use AI on Discord!
     - name: TTGuard
       category: Other Services
+      description: Guard your Discord server!
+    - name: TTCloud
+      category: US East
+      description: Sharing files made easier
+      link: https://cloud.ttnrtsite.me
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
