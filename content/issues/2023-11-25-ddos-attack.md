@@ -4,10 +4,9 @@ date: 2023-11-25 13:23:00
 resolved: true
 resolvedWhen: 2023-11-25 23:31:00
 affected:
-  - Main Server
+  - East Proxy
   - TTGit
   - CDN
-  - TTHost
   - TTWeb
   - STVRadio
   - AssistAI

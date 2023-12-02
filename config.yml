@@ -23,14 +23,14 @@ params:
       closed: true
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Proxy Server
+    - name: East Proxy
       category: US East
-      link: https://ttnrt-us-east-nc-jahy.ttnrtsite.me/
-      description: Proxy server
-    - name: Proxy server
+      link: https://sspty.ttnrtsite.me/
+      description: Proxy server for US East
+    - name: Midwest Proxy
       category: US Midwest
       link: https://mi-cathy.int.ttnrtsite.me/
-      description: Proxy server
+      description: Proxy server for US Midwest
     - name: Mastodon
       category: US Midwest
       link: https://social.ttnrtsite.me

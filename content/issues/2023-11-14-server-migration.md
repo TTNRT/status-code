@@ -2,10 +2,9 @@
 title: Server Migration
 date: 2023-11-14 07:32:00
 affected:
-  - Main Server
+  - East Proxy
   - TTGit
   - CDN
-  - TTHost
   - TTWeb
   - STVRadio
   - AssistAI

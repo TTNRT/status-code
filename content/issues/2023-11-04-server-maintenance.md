@@ -5,10 +5,9 @@ resolved: true
 resolvedWhen: 2023-11-05 11:21:00
 severity: down
 affected:
-  - Main Server
+  - East Proxy
   - TTGit
   - CDN
-  - TTHost
   - TTWeb
   - STVRadio
   - AssistAI
