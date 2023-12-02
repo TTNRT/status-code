@@ -29,7 +29,7 @@ params:
       description: Proxy server for US East
     - name: Midwest Proxy
       category: US Midwest
-      link: https://mi-cathy.int.ttnrtsite.me/
+      link: https://cathy.ttnrtsite.me/
       description: Proxy server for US Midwest
     - name: Mastodon
       category: US Midwest
