@@ -12,22 +12,27 @@ enableGitInfo: true
 
 params:
   categories:
-    #- name: Discord Bots
-    #  description: Discord Bots
     - name: US East
       description: The main site in South Carolina
+      closed: false
+    - name: US Midwest
+      description: The second site in Michigan
       closed: false
     - name: Other Services
       description: Separate services we have hosted
       closed: true
  # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Main Server
+    - name: Proxy Server
       category: US East
       link: https://ttnrt-us-east-nc-jahy.ttnrtsite.me/
       description: Proxy server
+    - name: Proxy server
+      category: US Midwest
+      link: https://mi-cathy.int.ttnrtsite.me/
+      description: Proxy server
     - name: Mastodon
-      category: US East
+      category: US Midwest
       link: https://social.ttnrtsite.me
       description: Social network
     - name: TTGit
@@ -39,7 +44,7 @@ params:
       link: https://cdn.ttnrtsite.me
       description: Content Delivery Network
     - name: TTHost
-      category: US East
+      category: US Midwest
       description: Hosting made easier
     - name: TTWeb
       category: US East
