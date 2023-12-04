@@ -115,7 +115,7 @@ params:
 
   enableCustomHTML: true
   
-theme: statustt
+theme: statustt-custom
 
 preserveTaxonomyNames: true
 
