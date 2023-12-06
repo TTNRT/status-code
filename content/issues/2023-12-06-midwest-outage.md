@@ -14,3 +14,11 @@ We are preparing a upgrade for our proxy server to Debian as our Ubuntu server i
 
 
 This issue will be updated later today as we backup files and any data. Once we shutdown the server, it will become inposabile to access it. Please understand that this is going to include a install for Mastodon on one of our other server laying around. You keep this in mind however.
+
+## Summeray
+
+2023-12-06 at 5:20 PM: Backups are done and the server is now placed offline.
+
+2023-12-06 at 5:28 PM: The SD Card is formatted now. Debian is ready for install.
+
+2023-12-06 at 5:29 PM: Debian is now installed to the SD Card. System will be online soon. We appreciate your patiance during this time.
