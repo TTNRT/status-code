@@ -57,7 +57,7 @@
   
   "buildDate": "{{ now.Format "2006-01-02" }}",
   "buildTime": "{{ now.Format "15:04" }}",
-  "buildTimezone": "{{ now.Format "MST" }}",
+  "buildTimezone": "{{ now.Format "EST" }}",
   "colorBrand": "{{ .Site.Params.Brand }}",
   "colorOk": "{{ .Site.Params.Ok }}",
   "colorDisrupted": "{{ .Site.Params.Disrupted }}",

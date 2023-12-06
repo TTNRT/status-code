@@ -147,3 +147,5 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
+
+timeZone: America/Detroit
