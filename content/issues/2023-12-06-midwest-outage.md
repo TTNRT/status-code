@@ -1,8 +1,8 @@
 ---
 title: Midwest outage
 date: 2023-12-06 10:50:00
-resolved: false
-#resolvedWhen: 2023-12-06 00:00:00
+resolved: true
+resolvedWhen: 2023-12-06 19:29:00
 affected:
   - Midwest Proxy
   - Mastodon
@@ -24,3 +24,5 @@ This issue will be updated later today as we backup files and any data. Once we 
 2023-12-06 at 5:29 PM: Debian is now installed to the SD Card. System will be online soon. We appreciate your patiance during this time.
 
 2023-12-06 at 6:46 PM: The webserver is online. However, it needs a bit more configuration. Please wait for more updates..
+
+2023-12-06 at 7:29 PM: This operation is now completed. The issue is resolved and no errors have been reported
