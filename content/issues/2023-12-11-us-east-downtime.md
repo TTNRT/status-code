@@ -8,6 +8,7 @@ affected:
     - TTGit
     - CDN
     - TTWeb
+    - TTCloud
 section: issue
 severity: down
 ---
