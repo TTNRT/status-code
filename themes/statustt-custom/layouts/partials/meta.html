@@ -376,6 +376,16 @@
       border: 2px solid #ddd;
     }
 
+    a.button {
+      display: inline-block;
+      padding: 4px 8px;
+      margin-right: 4px;
+      margin-bottom: 2px;
+      background: #eee;
+      border-radius: 6px;
+    }
+    a.button:hover { background: #ddd; border-radius: 6px; }
+
     {{ if not .Site.Params.disableDarkMode }}
       /**
       * Dark theme
@@ -417,6 +427,8 @@
         .issue:hover,
         .category__head:hover { background-color: #212121; border-radius: 6px; }
 
+        a.button { background-color: #1d1f20; border-radius: 6px; }
+        a.button:hover { background: #222; border-radius: 6px; }
         /* Colors for dark mode */
 
         .hinted, .faded { color: #c1bcb3; }
