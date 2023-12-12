@@ -1,8 +1,8 @@
 ---
 title: US East Downtime
 date: 2023-12-11 05:20:00
-resolved: false
-#resolvedWhen: 2023-12-11 20:03:00
+resolved: true
+resolvedWhen: 2023-12-12 07:46:00
 affected:
     - East Proxy
     - TTGit
@@ -37,5 +37,8 @@ The nature of this upgrade was mostly fine, however a lot of speed bumps were en
 
 Our log:
 
-[December 10, 2023 8:03 PM] Update
+[December 11, 2023 8:03 PM] Update
 Server went out once more after some success on our container. This seams to be a firewall from both the management and main access to the servers hosting our services. For the time being, US East, along with the entire container hosting parts of it, will be shutdown. We are not sure on when this issue will be resolved. Untill then, US East will remain offline. We apologize for this insident.
+
+[December 12, 2023 7:47 AM] Resolved
+This issue is now resolved and services on US East is restored. We thank you for your patience during this outage.
