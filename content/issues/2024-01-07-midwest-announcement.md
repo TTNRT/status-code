@@ -1,8 +1,8 @@
 ---
 title: US Midwest announcement
-date: 2024-01-04 21:41:00
+date: 2024-01-07 21:41:00
 resolved: false
-#resolvedWhen: 2024-01-02 12:32:00
+#resolvedWhen: 2024-01-07 12:32:00
 affected:
     - Midwest Proxy
     - Mastodon
