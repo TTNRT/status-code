@@ -7,8 +7,12 @@ affected:
     - CDN
     - TTWeb
     - TTCloud
+    - STVRadio
+    - AssistAI
+    - TTGuard
 informational: true
 pin: true
+section: issue
 ---
 
 US East is having a risk for servere weather in it's coverage area. Acccording to the Storm Predition Center, a rare enhanced risk is issued for parts of where US East orgianates from.
