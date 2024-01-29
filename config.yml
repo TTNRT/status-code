@@ -64,6 +64,10 @@ params:
       category: US East
       description: Sharing files made easier
       link: https://cloud.ttnrtsite.me
+    - name: TTPages
+      category: US Midwest
+      description: Hosting static sites
+      link: https://ttnrtsite.io  
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
