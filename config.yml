@@ -25,11 +25,9 @@ params:
   systems:
     - name: East Proxy
       category: US East
-      link: https://sspty.ttnrtsite.me/
       description: Proxy server for US East
     - name: Midwest Proxy
       category: US Midwest
-      link: https://cathy.ttnrtsite.me/
       description: Proxy server for US Midwest
     - name: Mastodon
       category: US Midwest
@@ -37,7 +35,7 @@ params:
       description: Social network
     - name: TTGit
       category: US East
-      link: https://git.ttnrtsite.me
+      link: https://gitea.ttnrtsite.me
       description: Hosting your code!
     - name: CDN
       category: US East
@@ -52,7 +50,6 @@ params:
       description: Our default website
     - name: STVRadio
       category: Other Services
-      link: https://github.com/SSP6904/STVRadio
       description: Listening to music
     - name: AssistAI
       category: Other Services
