@@ -31,7 +31,7 @@ params:
       description: Proxy server for US Midwest
     - name: Mastodon
       category: US Midwest
-      link: https://soical.ttnrtsite.me
+      link: https://social.ttnrtsite.me
       description: Social network
     - name: TTGit
       category: US East
