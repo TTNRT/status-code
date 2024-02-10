@@ -34,7 +34,7 @@ params:
       link: https://social.ttnrtsite.me
       description: Social network
     - name: TTGit
-      category: US Midwest
+      category: US East
       link: https://git.ttnrtsite.me
       description: Hosting your code!
     - name: CDN
