@@ -34,16 +34,16 @@ params:
       link: https://social.ttnrtsite.me
       description: Social network
     - name: TTGit
-      category: US East
-      link: https://gitea.ttnrtsite.me
+      category: US Midwest
+      link: https://git.ttnrtsite.me
       description: Hosting your code!
     - name: CDN
       category: US East
       link: https://cdn.ttnrtsite.me
       description: Content Delivery Network
-    - name: TTHost
-      category: US Midwest
-      description: Hosting made easier
+    #- name: TTHost
+    #  category: US Midwest
+    #  description: Hosting made easier
     - name: TTWeb
       category: US East
       link: https://www.ttnrtsite.me
@@ -58,7 +58,7 @@ params:
       category: Other Services
       description: Guard your Discord server!
     - name: TTCloud
-      category: US East
+      category: US Midwest
       description: Sharing files made easier
       link: https://cloud.ttnrtsite.me
     - name: TTPages
