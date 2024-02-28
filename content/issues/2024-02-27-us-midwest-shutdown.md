@@ -17,3 +17,5 @@ We are having strong winds where US Midwest is located. Considering the weather 
 
 ## Summary
 2024-02-27 3:36 PM - We sent the power off signal to the site. Services on site are now offline.
+
+2024-02-28 6:12 AM - Storms have cleared out of the area where a tornado threat was posabile. However, strong winds are still posabile throughout the day and can cause a unexpected power outage to site. Although the threat has passed, we are still deciding on whether or not to power on the server. Please wait while we gather more information.
