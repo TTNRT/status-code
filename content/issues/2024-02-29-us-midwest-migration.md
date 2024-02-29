@@ -1,5 +1,5 @@
 ---
-title: US East migration
+title: US Midwest migration
 date: 2024-02-29T09:13:00.746Z
 affected:
     - Midwest proxy
