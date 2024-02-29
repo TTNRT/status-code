@@ -1,7 +1,7 @@
 ---
 title: US Midwest shutdown
 date: 2024-02-27T15:26:00.746Z
-resolved: false
+resolved: true
 resolvedWhen: 2024-02-29T09:06:00.746Z
 affected:
     - Midwest Proxy
