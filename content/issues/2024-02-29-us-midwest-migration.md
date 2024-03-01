@@ -4,7 +4,7 @@ date: 2024-02-29T09:13:00.746Z
 resolved: false
 #resolvedWhen: 2024-02-29T00:00:00.746Z
 affected:
-    - Midwest proxy
+    - Midwest Proxy
     - TTCloud
     - TTPages
     - API
