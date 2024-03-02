@@ -20,3 +20,5 @@ We are planning on doing a quick migration of the current US Midwest server to a
 2024-03-01 6:01 PM - The migration has begon. Any services hosted on US Midwest will become inaccessible. Updates will published while the migration is in progress.
 
 2024-03-01 10:57 PM - The migration was successful. Before hosting the new server, we will test to ensure that everything went well.
+
+2024-03-02 1:55 PM - There seams to be issues reguarding the server. Around the time the migration was finished, we made sure that everything was going well for the server. However, the server showed no output to the screen we used to check for any issues. The boot text did show before this. The CEO at the time of the migration was complety unaware on the progress, so we can't tell if there were any errors during the timing of it. For now, some services will be operated on US East for time being until service is restored on US Midwest.
