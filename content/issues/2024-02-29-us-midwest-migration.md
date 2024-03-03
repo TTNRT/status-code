@@ -1,8 +1,8 @@
 ---
 title: US Midwest migration
 date: 2024-02-29T09:13:00.746Z
-resolved: true
-resolvedWhen: 2024-03-03T13:30:00.746Z
+resolved: false
+#resolvedWhen: 2024-03-03T13:30:00.746Z
 affected:
     - Midwest Proxy
     - TTCloud
