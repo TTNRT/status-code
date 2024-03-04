@@ -1,8 +1,8 @@
 ---
 title: US Midwest migration
 date: 2024-02-29T09:13:00.746Z
-resolved: false
-#resolvedWhen: 2024-03-03T13:30:00.746Z
+resolved: true
+resolvedWhen: 2024-03-03T19:02:00.746Z
 affected:
     - Midwest Proxy
     - TTCloud
@@ -24,3 +24,5 @@ We are planning on doing a quick migration of the current US Midwest server to a
 2024-03-02 1:55 PM - There seams to be issues reguarding the server. Around the time the migration was finished, we made sure that everything was going well for the server. However, the server showed no output to the screen we used to check for any issues. The boot text did show before this. The CEO at the time of the migration was complety unaware on the progress, so we can't tell if there were any errors during the timing of it. For now, some services will be operated on US East for time being until service is restored on US Midwest.
 
 2024-03-03 12:39 AM - We managed to install a clean copy of Debian to the new server and put in the backups from the old server. Since the server works well without any errors, we are going to power on the server later today as the midnight hours is effecting the CEO at the momment. This issue will be closed at 1:30 PM as the migration is complete.
+
+2024-03-03 7:02 PM - This issue is closed. All services are restored on US Midwest.
