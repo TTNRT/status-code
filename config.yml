@@ -68,7 +68,11 @@ params:
     - name: API
       category: US Midwest
       description: Used for accessing the TTNRT API
-      link: https://api.ttnrtsite.me/ 
+      link: https://api.ttnrtsite.me/
+    - name: IRC
+      category: US East
+      link: https://matrix.ttnrtsite.me
+      description: Our IRC chatting site!
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
