@@ -73,6 +73,10 @@ params:
       category: US East
       link: https://matrix.ttnrtsite.me
       description: Our IRC chatting site!
+    - name: TTVideo
+      category: US East
+      link: https://video.ttnrtsite.me
+      description: Share videos!
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
