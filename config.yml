@@ -77,6 +77,10 @@ params:
       category: US East
       link: https://video.ttnrtsite.me
       description: Share videos!
+    - name: TTVerify
+      category: Other Services
+      link: https://verify.ttnrtsite.me
+      description: A bot to verify you.
 
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
