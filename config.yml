@@ -54,6 +54,7 @@ params:
     - name: AssistAI
       category: Other Services
       description: Use AI on Discord!
+      link: https://assist.ttnrtsite.me
     - name: TTGuard
       category: Other Services
       description: Guard your Discord server!
