@@ -74,10 +74,6 @@ params:
       category: US East
       link: https://matrix.ttnrtsite.me
       description: Our IRC chatting site!
-    - name: TTVideo
-      category: US East
-      link: https://video.ttnrtsite.me
-      description: Share videos!
     - name: TTVerify
       category: Other Services
       link: https://verify.ttnrtsite.me
