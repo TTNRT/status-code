@@ -15,3 +15,5 @@ severity: down
 ---
 
 _2024-05-10 11:26:00 AM - We are aware that the Midwest site is currently experiencing downtime issues. Give us some time to figure out whats wrong._
+
+_2024-05-10 11:36:00 AM - We are susspecting the downtime may be linked to all of the resources being eaten up by a program of some sort. That is not confirmed at this time, but in order conserve trafic coming on site, any forwarded ports are now being cut off for the time being. We will get back to this as soon as we can._
