@@ -82,7 +82,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM UTC
   shortDateFormat: 15:04 UTC — Jan 2
 
-  useRelativeTime: true
+  useRelativeTime: false
  
   skipSeconds: false
 
@@ -102,6 +102,7 @@ params:
 
   description: Check for any outages or issues here!
 
+  googleAnalytics: UA-00000000-1
   # Tabs on homepage
   # Uncomment to enable.
   #
