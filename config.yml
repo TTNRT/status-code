@@ -125,8 +125,6 @@ params:
 
   headerTextColor: white
 
-  googleAnalytics: UA-00000000-1
-
   enableCustomHTML: true
   
 theme: statustt-custom
@@ -161,5 +159,3 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
-
-timeZone: America/Detroit
