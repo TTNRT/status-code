@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Network disuptions on Midwest
-date: 2024-06-02T01:24:18.773Z
+date: 2024-06-02T01:38:59.571Z
 resolved: false
 draft: false
 informational: false
