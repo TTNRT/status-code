@@ -1,27 +1,41 @@
 title: TTNRT Status
-
 buildFuture: true
-
-languageCode: en
-
 defaultContentLanguage: en
-
+languageCode: en
 baseURL: /
-
+theme: statustt-custom
+preserveTaxonomyNames: true
+taxonomies:
+  affected: affected
+outputs:
+  page:
+    - html
+    - json
+  section:
+    - html
+    - json
+    - rss
+  home:
+    - html
+    - json
+    - rss
+    - svg
+  term:
+    - html
+    - json
+    - rss
+    - svg
+outputFormats:
+  svg:
+    isPlainText: true
+    mediaType: image/svg+xml
 enableGitInfo: true
-
 params:
-  categories:
-    - name: US East
-      description: The main site in South Carolina
-      closed: false
-    - name: US Midwest
-      description: The second site in Michigan
-      closed: false
-    - name: Other Services
-      description: Separate services we have hosted
-      closed: true
- # https://github.com/cstate/cstate/wiki/Customization
+  skipSeconds: false
+  useRelativeTime: true
+  disableDarkMode: false
+  shortDateFormat: 15:04 UTC — Jan 2
+  down: "#e60000"
   systems:
     - name: East Proxy
       category: US East
@@ -41,9 +55,6 @@ params:
       category: US East
       link: https://cdn.ttnrtsite.me
       description: Content Delivery Network
-    #- name: TTHost
-    #  category: US Midwest
-    #  description: Hosting made easier
     - name: TTWeb
       category: US East
       link: https://www.ttnrtsite.me
@@ -62,9 +73,9 @@ params:
       category: US Midwest
       description: Sharing files made easier
       link: https://cloud.ttnrtsite.me
-    - name: TTPages
-      category: US Midwest
-      description: Hosting static sites
+    - name: Meli
+      category: US East
+      description: Host your static sites
       link: https://ttnrtsite.io
     - name: API
       category: US Midwest
@@ -78,85 +89,32 @@ params:
       category: Other Services
       link: https://verify.ttnrtsite.me
       description: A bot to verify you.
-
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  shortDateFormat: 15:04 UTC — Jan 2
-
-  useRelativeTime: false
- 
-  skipSeconds: false
-
-  enableLastMod: true
-
-  useLargeHeaderDesign: false
-
-  incidentHistoryFormat: "yearly"
-
-  disableIncidentHistory: false
-
-  disableDarkMode: false
-
-  useLogo: true
-
-  logo: logo.png
-
-  description: Check for any outages or issues here!
-
-  googleAnalytics: UA-00000000-1
-  # Tabs on homepage
-  # Uncomment to enable.
-  #
-  #  Format:
-  #  customTabs:
-  #   -
-  #    name: Home
-  #    link: https://ttnrtsite.me/
-
-  disableComplexCalculations: false
-
-  incidentPostsPerPage: 10
-
   brand: "#0a0c0f"
-  ok: "#008000"
-  disrupted: "#cc4400"
-  down: "#e60000"
-  notice: "#24478f"
-
-  alwaysKeepBrandColor: true
-
+  enableLastMod: true
   headerTextColor: white
-
+  logo: logo.png
+  incidentPostsPerPage: 10
+  googleAnalytics: UA-00000000-1
+  alwaysKeepBrandColor: true
+  disableComplexCalculations: false
+  useLogo: true
+  disrupted: "#cc4400"
+  notice: "#24478f"
+  incidentHistoryFormat: yearly
+  disableIncidentHistory: false
+  ok: "#008000"
+  categories:
+    - name: US East
+      description: The main site in South Carolina
+      closed: false
+    - name: Other Services
+      description: Separate services we have hosted
+      closed: true
+    - name: US Midwest
+      description: The second site in Michigan
+      closed: false
+  description: Check for any outages or issues here!
   enableCustomHTML: true
-  
-theme: statustt-custom
-
-preserveTaxonomyNames: true
-
+  useLargeHeaderDesign: false
 enableCustomHTML: true
-
-taxonomies:
-  affected: affected
-
-outputs:
-  page:
-    - html
-    - json
-  section:
-    - html
-    - json
-    - rss
-  home:
-    - html
-    - json
-    - rss
-    - svg
-  term:
-    - html
-    - json
-    - rss
-    - svg
-
-outputFormats:
-  svg:
-    isPlainText: true
-    mediaType: image/svg+xml
