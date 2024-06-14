@@ -1,12 +1,12 @@
 ---
 section: issue
 title: US Midwest system upgrade
-date: 2024-06-14T16:02:10.580Z
+date: 2024-06-14T16:13:28.322Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-06-14T16:02:14.181Z
+resolvedWhen: 2024-06-14T16:13:30.275Z
 affected:
   - Midwest Proxy
   - TTCloud
